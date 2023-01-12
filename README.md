@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Adnan Hossain
 - 👀 I’m interested in Machine learning.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on.
+- 📫 How to reach me.
 
 <!---
 engadnanhossain/engadnanhossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
