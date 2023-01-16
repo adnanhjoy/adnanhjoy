@@ -28,12 +28,13 @@ In my website https://adnanhossaincse.blogspot.com I put the details of my recen
 
 <h3 align="center">Languages and Tools I use:</h3>
 <p align="center">
+ <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/512/javascript-logo.png" alt="Google Firebase" height="40" width="36" /></a>
 <a href="https://www.java.com" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" alt="Java Programming Language" height="47" width="47" /></a>
 <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/google-firebase-console.png" alt="Google Firebase" height="40" width="36" /></a>
-<a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/git.png" alt="Git" height="45" width="45" /></a>
+<a href="https://www.python.org/" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" alt="Git" height="45" width="45" /></a>
 <a href="https://reactnative.dev/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/react-native.png" alt="React Native Programming" height="37" width="37" /></a>
 <a href="https://www.photoshop.com/en" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/000000/adobe-photoshop.png" alt="Adobe Photoshop" height="45" width="45" /></a>
-<a href="https://www.adobe.com/products/xd.html" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png" alt="Adobe XD" height="45" width="45" /></a>
+<a href="https://html.com/" target="blank"><img align="center" src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/512/external-html-social-media-tanah-basah-glyph-tanah-basah.png" alt="HTML" height="45" width="45" /></a>
 </p>
 
 </br>
