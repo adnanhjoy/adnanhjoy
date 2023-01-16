@@ -21,9 +21,9 @@ In my website https://adnanhossaincse.blogspot.com I put the details of my recen
 
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/engadnanhossain" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="engadnanhossain" height="55" width="55" /></a>
+<a href="https://www.linkedin.com/in/engadnanhossain" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="engadnanhossain" height="50" width="50" /></a>
 <a href="https://www.facebook.com/engr.adnanhossain" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/facebook-new.png" alt="engadnanhossain" height="50" width="50" /></a>
-<a href="https://instagram.com/engadnanhossain" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="engadnanhossain" height="55" width="55" /></a>
+<a href="https://instagram.com/engadnanhossain" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="engadnanhossain" height="50" width="50" /></a>
 <a href="https://twitter.com/engadnanhossain" target="blank"><img align="center" src="https://img.icons8.com/color/512/twitter.png" alt="engadnanhossain" height="55" width="55" /></a>
 </p>
 
