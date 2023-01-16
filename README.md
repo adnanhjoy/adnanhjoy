@@ -1,11 +1,39 @@
-- 👋 Hi, I’m Adnan Hossain
-- 👀 I’m interested in Machine learning.
-- 🌱 I’m currently learning python.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on.
-- 📫 How to reach me.
+<h2 align="center">Hey, I'm Adnan Hossain</h2>
+<h3 align="center">A professional Web Developer from Bangladesh</h3>
 
-<!---
-engadnanhossain/engadnanhossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4 align="justify">
+As a developer I create things, and design interfaces not to make them feel bad while using them. I use patterns, algorithms, and engineering principles to craft and mold products into something that customers will love. At the same time, I'm efficient and work quickly. I always try to be creative to put all these pieces together.
+</br></br>
+I'm a lifelong learner. I'm a Full Stack Developer and generally, I love to solve Programming Problems with Data Structure and Algorithms.
+</br></br>
+In my website https://adnanhossaincse.blogspot.com I put the details of my recent works. Feel free to reach out and contact me.
+</h4>
+
+### SKILLS
+```json
+{
+  "Languages"  : ["JavaScript", "C", "C++", "Python"],
+  "Front-end"  : ["Java", "React JS"],
+  "Back-end"   : ["Firebase", "Node JS", "Express JS"],
+  "DBMS"       : ["MySQL"]
+}
+```
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/engadnanhossain" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/000000/linkedin.png" alt="engadnanhossain" height="55" width="55" /></a>
+<a href="https://www.facebook.com/engr.adnanhossain" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/000000/facebook-new.png" alt="engadnanhossain" height="50" width="50" /></a>
+<a href="https://instagram.com/engadnanhossain" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/000000/instagram-new--v1.png" alt="engadnanhossain" height="55" width="55" /></a>
+</p>
+
+<h3 align="center">Languages and Tools I use:</h3>
+<p align="center">
+<a href="https://www.java.com" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" alt="Java Programming Language" height="47" width="47" /></a>
+<a href="https://firebase.google.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/google-firebase-console.png" alt="Google Firebase" height="40" width="36" /></a>
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/git.png" alt="Git" height="45" width="45" /></a>
+<a href="https://reactnative.dev/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/react-native.png" alt="React Native Programming" height="37" width="37" /></a>
+<a href="https://www.photoshop.com/en" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/000000/adobe-photoshop.png" alt="Adobe Photoshop" height="45" width="45" /></a>
+<a href="https://www.adobe.com/products/xd.html" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png" alt="Adobe XD" height="45" width="45" /></a>
+</p>
+
+</br>
