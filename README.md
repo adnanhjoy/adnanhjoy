@@ -30,7 +30,7 @@ In my website https://adnanhossaincse.blogspot.com I put the details of my recen
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://html.com/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png" alt="HTML" height="36" width="36" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://icons8.com/icon/108784/javascript" alt="Javascript" height="40" width="36" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://icons8.com/icon/108784/javascript" alt="Googel Firebase" height="40" width="36" /></a>
 <a href="https://www.java.com" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" alt="Java Programming Language" height="47" width="47" /></a>
 <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/google-firebase-console.png" alt="Google Firebase" height="40" width="36" /></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" alt="Git" height="45" width="45" /></a>
