@@ -35,7 +35,7 @@ In my website https://adnanhossaincse.blogspot.com I put the details of my recen
 <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/google-firebase-console.png" alt="Google Firebase" height="40" width="36" /></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" alt="Python" height="45" width="45" /></a>
 <a href="https://reactnative.dev/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/react-native.png" alt="React Native Programming" height="37" width="37" /></a>
-<a href="https://www.photoshop.com/en" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/000000/adobe-photoshop.png" alt="Adobe Photoshop" height="45" width="45" /></a>
+
 
 </p>
 
