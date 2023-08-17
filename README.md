@@ -14,10 +14,10 @@ In my website  https://adnanio.web.app I put the details of my recent works. Fee
 ### SKILLS
 ```json
 {
-  "Languages"  : ["JavaScript", "C", "C++", "Python"],
-  "Front-end"  : ["Java", "React JS"],
-  "Back-end"   : ["Firebase", "Node JS", "Express JS"],
-  "DBMS"       : ["MySQL"]
+  "Languages"  : ["JavaScript", "TypeScript", "C", "Python"],
+  "Front-end"  : ["React JS", "Electron JS", "Redux", "RTK Query"],
+  "Back-end"   : ["Node JS", "Express JS", "Firebase",],
+  "DBMS"       : ["Mongodb"]
 }
 ```
 
@@ -33,10 +33,11 @@ In my website  https://adnanio.web.app I put the details of my recent works. Fee
 <p align="center">
 <a href="https://html.com/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png" alt="HTML" height="36" width="36" /></a>
 <a href="https://www.javascript.com" target="blank"><img align="center" src="https://img.icons8.com/color/512/javascript.png" alt="Javascript" height="47" width="47" /></a>
-<a href="https://www.java.com" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" alt="Java Programming Language" height="47" width="47" /></a>
+<a href="https://www.redux-toolkit.js.org" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/redux.png" alt="redux"/></a>
 <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/google-firebase-console.png" alt="Google Firebase" height="40" width="36" /></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" alt="Python" height="45" width="45" /></a>
-<a href="https://reactnative.dev/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/react-native.png" alt="React Native Programming" height="37" width="37" /></a>
+<a href="https://react.dev/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/react-native.png" alt="React Native Programming" height="37" width="37" /></a>
+<a href="https://nodejs.org/" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/></a>
 
 
 </p>
