@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=engadnanhossain&color=blue)
-
 <h2 align="center">Hey, I'm Adnan Hossain</h2>
 <h3 align="center">A Professional Web Developer From Bangladesh</h3>
 
