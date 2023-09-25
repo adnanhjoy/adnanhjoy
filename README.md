@@ -2,11 +2,11 @@
 <h3 align="center">A Professional Web Developer From Bangladesh</h3>
 
 <h4 align="justify">
-As a developer I create things, and design interfaces not to make them feel bad while using them. I use patterns, algorithms, and engineering principles to craft and mold products into something that customers will love. At the same time, I'm efficient and work quickly. I always try to be creative to put all these pieces together.
+As a developer, I create things, and design interfaces not to make them feel bad while using them. I use patterns, algorithms, and engineering principles to craft and mold products into something that customers will love. At the same time, I'm efficient and work quickly. I always try to be creative to put all these pieces together.
 </br></br>
-I'm a lifelong learner. I'm a Full Stack Developer and generally, I love to solve Programming Problems with Data Structure and Algorithms.
+I'm a lifelong learner. I'm a Full Stack Developer and generally love solving Programming Problems with Data Structure and Algorithms.
 </br></br>
-In my website  https://adnanio.web.app I put the details of my recent works. Feel free to reach out and contact me.
+On my website  https://adnanio.web.app I put the details of my recent works. Please feel free to reach out and reach out to me.
 </h4>
 
 ### SKILLS
