@@ -6,7 +6,8 @@ As a developer, I create things, and design interfaces not to make them feel bad
 </br></br>
 I'm a lifelong learner. I'm a Full Stack Developer and generally love solving Programming Problems with Data Structure and Algorithms.
 </br></br>
-On my website  https://adnanio.web.app I put the details of my recent works. Please feel free to reach out and reach out to me.
+On my website  
+https://adnanio.web.app I put the details of my recent works. Please feel free to reach out and reach out to me.
 </h4>
 
 ### SKILLS
