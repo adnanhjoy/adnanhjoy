@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Adnan Hossain</h2>
 <h3 align="center">A Professional Web Developer From Bangladesh</h3>
 
-<h4 align="justify">
+<h4>
 As a developer, I create things, and design interfaces not to make them feel bad while using them. I use patterns, algorithms, and engineering principles to craft and mold products into something that customers will love. At the same time, I'm efficient and work quickly. I always try to be creative to put all these pieces together.
 </br></br>
 I'm a lifelong learner. I'm a Full Stack Developer and generally love solving Programming Problems with Data Structure and Algorithms.
