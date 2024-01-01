@@ -15,7 +15,7 @@ On my website https://adnanio.web.app I put the details of my recent works. Plea
 ```json
 {
   "Languages"  : ["JavaScript", "TypeScript", "C", "Python"],
-  "Front-end"  : ["React JS", "Electron JS", "Redux", "RTK Query"],
+  "Front-end"  : ["React JS", "Next JS", "Electron JS", "Redux", "RTK Query"],
   "Back-end"   : ["Node JS", "Express JS", "Firebase"],
   "DBMS"       : ["Mongodb"]
 }
@@ -23,10 +23,10 @@ On my website https://adnanio.web.app I put the details of my recent works. Plea
 
 <h3 align="center"> Connect With Me: </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/engadnanhossain" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="engadnanhossain" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/adnanhjoy" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="engadnanhossain" height="50" width="50" /></a>
 <a href="https://www.facebook.com/engr.adnanhossain" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/facebook-new.png" alt="engadnanhossain" height="50" width="50" /></a>
-<a href="https://instagram.com/engadnanhossain" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="engadnanhossain" height="50" width="50" /></a>
-<a href="https://twitter.com/engadnanhossain" target="blank"><img align="center" src="https://img.icons8.com/color/512/twitter.png" alt="engadnanhossain" height="55" width="55" /></a>
+<a href="https://instagram.com/adnanhjoy" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="engadnanhossain" height="50" width="50" /></a>
+<a href="https://twitter.com/adnanhjoy" target="blank"><img align="center" src="https://img.icons8.com/color/512/twitter.png" alt="engadnanhossain" height="55" width="55" /></a>
 </p>
 
 <h3 align="center"> Languages and Tools: </h3>
