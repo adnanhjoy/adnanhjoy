@@ -7,6 +7,22 @@ As a developer, I create things, and design interfaces not to make them feel bad
 
 I'm a lifelong learner. I'm a Full Stack Developer and generally love solving Programming Problems with Data Structure and Algorithms.
 
+I specialize in building robust, scalable, and user-friendly web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). With over a year of hands-on experience, I have successfully developed and deployed various projects, from dynamic web platforms to complex back-end systems.
+
+I thrive in environments that require critical thinking and innovation, consistently delivering high-quality code while adhering to best practices. My expertise spans across:
+
+➤ Front-end development with React.js, ensuring responsive and dynamic user interfaces.
+
+➤ Back-end architecture with Node.js and Express.js, focusing on performance and scalability.
+
+➤ Database management using MongoDB and PostgreSQL, with experience in designing complex relationships and optimizing queries.
+
+➤ Full stack development using the MERN stack, integrating cutting-edge technologies with a focus on clean, maintainable code.
+
+I am always eager to collaborate on challenging projects that push the boundaries of web development and provide real-world solutions. My goal is to continuously expand my technical skill set while contributing to a team that values innovation, growth, and success.
+
+Let’s connect and discuss how I can bring value to your next project!
+
 On my website https://adnanhjoy.vercel.app I put the details of my recent works. Please feel free to reach out and reach out to me.
 
 
@@ -20,6 +36,42 @@ On my website https://adnanhjoy.vercel.app I put the details of my recent works.
   "DBMS"       : ["Mongodb"]
 }
 ```
+
+#### Languages:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
+
+
+#### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Tools and Technologies
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)&nbsp; 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+
+#### IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanaotrek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Adnan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaotrek&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <h3 align="center"> Connect With Me: </h3>
 <p align="center">
