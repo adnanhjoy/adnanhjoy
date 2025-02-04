@@ -8,7 +8,7 @@ I thrive on efficiency, creativity, and problem-solving. With a strong foundatio
 
 ## 🛠️ My Tech Stack & Expertise  
 
-✔ **Front-End Development:** HTML, CSS, React.js, Next.js, Tailwind CSS, Redux 
+✔ **Front-End Development:** HTML, CSS, React.js, Next.js, Tailwind CSS, Redux
 ✔ **Back-End Development:** Node.js, Express.js, RESTful APIs  
 ✔ **Database Management:** MongoDB, PostgreSQL, MySQL  
 ✔ **Full Stack Development:** MERN Stack, scalable and secure web apps  
