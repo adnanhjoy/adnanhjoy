@@ -26,7 +26,7 @@ I thrive on efficiency, creativity, and problem-solving. With a strong foundatio
 I'm always excited to work on **challenging projects** that push the boundaries of web development and provide real-world solutions. If you have an idea, a project, or just want to chat about tech, let’s connect!  
 
 📌 **Portfolio:** [adnanhjoy.vercel.app](https://adnanhjoy.vercel.app)  
-📌 **LinkedIn:** [linkedin.com/in/adnanhjoy](https://linkedin.com/)  
+📌 **LinkedIn:** [linkedin.com/in/adnanhjoy](https://linkedin.com/in/adnanhjoy)  
 
 Feel free to reach out—I'm always open to new collaborations and opportunities! 🚀  
 
