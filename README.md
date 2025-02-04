@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=engadnanhossain&color=blue)
 <h2 align="center"> 👋 Hi, I'm Adnan Hossain! </h2>
-<h3 align="center"> A Professional Web Developer From Bangladesh </h3>
-
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver  
+<h3 align="center"> 🚀 Full Stack Developer | MERN Stack Enthusiast </h3>
 
 As a developer, I create, innovate, and refine digital experiences to ensure users enjoy seamless interactions. My passion lies in designing intuitive interfaces, structuring efficient architectures, and implementing engineering principles to craft high-quality products that users love.  
 
