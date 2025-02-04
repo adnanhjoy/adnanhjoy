@@ -8,11 +8,11 @@ I thrive on efficiency, creativity, and problem-solving. With a strong foundatio
 
 ## 🛠️ My Tech Stack & Expertise  
 
-✔ **Front-End Development:** HTML, CSS, React.js, Next.js, Tailwind CSS, Redux
+✔ **Front-End Development:** React.js, Next.js, Tailwind CSS, Redux  
 ✔ **Back-End Development:** Node.js, Express.js, RESTful APIs  
-✔ **Database Management:** MongoDB, PostgreSQL, MySQL  
+✔ **Database Management:** MongoDB, PostgreSQL  
 ✔ **Full Stack Development:** MERN Stack, scalable and secure web apps  
-✔ **Other Skills:** JWT Authentication, WebSockets, Cloud Deployment, Git/GitHub  
+✔ **Other Skills:** JWT Authentication, WebSockets, Cloud Deployment, Git/GitHub    
 
 ## 🌟 What I Bring to the Table  
 
