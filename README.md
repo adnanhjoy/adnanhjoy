@@ -37,7 +37,7 @@ On my website https://adnanhjoy.vercel.app I put the details of my recent works.
 }
 ```
 
-#### Expertise:
+#### Expertise
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
