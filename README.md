@@ -83,10 +83,10 @@ Feel free to reach out—I'm always open to new collaborations and opportunities
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
 
-| <a href="https://github.com/adnanhjoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanhjoy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Adnan's github stats" /></a> | <a href="https://github.com/adnanhjoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhjoy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnanhjoy&show_icons=true)](https://github.com/adnanhjoy/github-readme-stats) | <a href="https://github.com/adnanhjoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhjoy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnanhjoy&show_icons=true)](https://github.com/adnanhjoy/github-readme-stats)
+
 <h3 align="center"> Connect With Me: </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/adnanhjoy" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="engadnanhossain" height="50" width="50" /></a>
