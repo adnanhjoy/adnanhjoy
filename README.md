@@ -27,7 +27,7 @@ I'm always excited to work on **challenging projects** that push the boundaries 
 
 📌 **Portfolio:** [adnanhjoy.vercel.app](https://adnanhjoy.vercel.app)  
 📌 **Medium:** [adnanhjoy.medium.com](https://adnanhjoy.medium.com)  
-📌 **LinkedIn:** [linkedin.com/in/adnanhjoy](https://linkedin.com/in/adnanhjoy)
+📌 **LinkedIn:** [linkedin.com/in/adnanhjoy](https://linkedin.com/in/adnanhjoy)  
 📌 **Packages:** [npmjs.com/adnanhjoy](https://www.npmjs.com/~adnanhjoy)
 
 Feel free to reach out—I'm always open to new collaborations and opportunities! 🚀  
