@@ -83,7 +83,7 @@ Feel free to reach out—I'm always open to new collaborations and opportunities
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
 
-| [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnanhjoy&show_icons=true)](https://github.com/adnanhjoy/github-readme-stats) | <a href="https://github.com/adnanhjoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhjoy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnanhjoy&show_icons=true&count_private=true&cache_seconds=1800)](https://github.com/adnanhjoy/github-readme-stats) | <a href="https://github.com/adnanhjoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhjoy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
