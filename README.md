@@ -84,8 +84,10 @@ Feel free to reach out—I'm always open to new collaborations and opportunities
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
 
-| [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnanhjoy&show_icons=true&count_private=true&cache_seconds=1800)](https://github.com/adnanhjoy/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhjoy&layout=compact) |
-| ------------- | ------------- |
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=adnanhjoy&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
 
 
 <h3 align="center"> Connect With Me: </h3>
