@@ -85,7 +85,7 @@ Feel free to reach out—I'm always open to new collaborations and opportunities
 
 
 
-| [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnanhjoy&show_icons=true&count_private=true&cache_seconds=1800)](https://github.com/adnanhjoy/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhjoy&layout=compact) |
+| [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnanhjoy&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=1800)](https://github.com/adnanhjoy/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhjoy&layout=compact) |
 | ------------- | ------------- |
 
 
