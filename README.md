@@ -92,10 +92,10 @@ Feel free to reach out—I'm always open to new collaborations and opportunities
 
 <h3 align="center"> Connect With Me: </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/adnanhjoy" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="engadnanhossain" height="50" width="50" /></a>
-<a href="https://www.facebook.com/engr.adnanhossain" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/facebook-new.png" alt="engadnanhossain" height="50" width="50" /></a>
-<a href="https://instagram.com/adnanhjoy" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="engadnanhossain" height="50" width="50" /></a>
-<a href="https://twitter.com/adnanhjoy" target="blank"><img align="center" src="https://img.icons8.com/color/512/twitter.png" alt="engadnanhossain" height="55" width="55" /></a>
+<a href="https://www.linkedin.com/in/adnanhjoy" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="adnanhjoy" height="50" width="50" /></a>
+<a href="https://www.facebook.com/adnanhossain.me" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/facebook-new.png" alt="adnanhossain" height="50" width="50" /></a>
+<a href="https://instagram.com/adnanhjoy" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="adnanhjoy" height="50" width="50" /></a>
+<a href="https://twitter.com/adnanhjoy" target="blank"><img align="center" src="https://img.icons8.com/color/512/twitter.png" alt="adnanhjoy" height="55" width="55" /></a>
 </p>
 
 <h3 align="center"> Languages and Tools: </h3>
