@@ -27,10 +27,9 @@ I'm always excited to work on **challenging projects** that push the boundaries 
 
 📌 **Portfolio:** [adnanhjoy.vercel.app](https://adnanhjoy.vercel.app)  
 📌 **Medium:** [adnanhjoy.medium.com](https://adnanhjoy.medium.com)  
-📌 **Leetcode:** [leetcode.com/adnanhossain](https://leetcode.com/u/adnanhossain)
-
 📌 **LinkedIn:** [linkedin.com/in/adnanhjoy](https://linkedin.com/in/adnanhjoy)  
-📌 **Package:** [npmjs.com/adnanhjoy](https://www.npmjs.com/~adnanhjoy)  					
+📌 **Package:** [npmjs.com/adnanhjoy](https://www.npmjs.com/~adnanhjoy)  
+📌 **Leetcode:** [leetcode.com/adnanhossain](https://leetcode.com/u/adnanhossain)				
 
 
 
