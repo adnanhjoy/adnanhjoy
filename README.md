@@ -89,7 +89,7 @@ Feel free to reach out—I'm always open to new collaborations and opportunities
 
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=adnanhjoy&theme=ocean&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  <img src="https://commitinsights.vercel.app/api/insight?username=adnanhjoy&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
 
